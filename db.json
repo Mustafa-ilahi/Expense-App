@@ -1,0 +1,46 @@
+{
+  "expenses": [
+    {
+      "id": "1735134694819",
+      "name": "Test123",
+      "amount": 2001,
+      "category": "Food",
+      "date": "2024-01-01"
+    },
+    {
+      "id": "1735166948783",
+      "name": "Test 2",
+      "amount": 200,
+      "category": "Travel",
+      "date": "2024-01-01"
+    },
+    {
+      "id": "1735167036501",
+      "name": "Test4",
+      "amount": 202,
+      "category": "Travel",
+      "date": "2024-01-10"
+    },
+    {
+      "id": "1735167081772",
+      "name": "Test 5",
+      "amount": 500,
+      "category": "Food",
+      "date": "2024-03-02"
+    },
+    {
+      "id": "1735170863796",
+      "name": "Test",
+      "amount": 400,
+      "category": "Entertainment",
+      "date": "2024-01-05"
+    },
+    {
+      "id": "1735171017464",
+      "name": "Test12345",
+      "amount": 123456,
+      "category": "Food",
+      "date": "2024-01-06"
+    }
+  ]
+}
